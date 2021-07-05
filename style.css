@@ -1,0 +1,42 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(229, 255, 0);
+}
+.header_div{
+    background-color: rgb(1, 155, 155);
+    color: whitesmoke;
+    font-size: 35px;
+}
+.header_div img{
+    width: 100px;
+    border-radius: 20px;
+}
+.One{
+    background-color: turquoise;
+    font-size: 25px;
+}
+.main_div{
+    background-color: rgba(18, 187, 131, 0.877);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid rgb(0, 2, 2);
+}
+.main_div label{
+    background: rgba(0, 255, 55, 0.753);
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 10px 10px 45px rgb(154, 248, 3);
+    font-size: 22px;
+}
+#camera{
+    border: 2px solid whitesmoke;
+    width: 310ox;
+    height: 300px;
+    box-shadow: 10px 10px 45px rgb(154, 248, 3);
+}
+.main_div button{
+    width: 310px;
+    box-shadow: 10px 10px 45px rgb(154, 248, 3);
+    border: 1px solid white;
+}
